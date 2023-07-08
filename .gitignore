@@ -1,0 +1,26 @@
+# dependencies
+/node_modules
+/server/node_modules
+
+/mobile/.expo
+/mobile/node_modules
+
+/client/node_modules
+
+# production
+/build
+/dist
+/client/build
+  
+# misc
+package.json.bak
+.DS_Store
+
+# config file
+.vscode
+/server/.env
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log* 
